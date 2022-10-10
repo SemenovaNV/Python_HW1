@@ -14,8 +14,8 @@ elif numberX < 0 and numberY < 0:
 elif numberX > 0 and numberY < 0:
     print('4 четверть')
 elif numberX == 0 and numberY == 0:
-    print('заданная точка находится в центре плоскости координат')    
+    print('Заданная точка находится в центре плоскости координат')    
 elif numberX == 0:
-    print('заданная точка находится на оси X')
+    print('Заданная точка находится на оси X')
 elif numberY == 0:
-    print('заданная точка находится на оси Y')
+    print('Заданная точка находится на оси Y')
