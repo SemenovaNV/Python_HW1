@@ -11,4 +11,4 @@ elif number_quarter == 3:
 elif number_quarter == 4:
     print ('X > 0, Y < 0')
 else:
-    print ('Число равно 0 или больше 4')
+    print ('Число равнo 0 или бoльше 4')
