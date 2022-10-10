@@ -8,5 +8,4 @@ z = random.randrange(0,2)
 
 result = not (x or y or z) == (not x and not y and not z)
 print(f'х = {x}, y = {y}, z = {z} \n¬(X ⋁ Y ⋁ Z) = ¬X ⋀ ¬Y ⋀ ¬Z \nРезультат: {result}')
-
 # всегда True
